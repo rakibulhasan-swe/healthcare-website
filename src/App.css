@@ -1,0 +1,106 @@
+:root {
+  --my-color: rgb(70, 152, 161);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.shadow-effect
+{
+  position: relative;
+}
+.shadow-effect:before, .shadow-effect:after
+{
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 15px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width:300px;
+  background: #777;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+.shadow-effect:after
+{
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+}
+
+header {
+  background-color: var(--my-color);
+  /* background-color: black; */
+}
+
+nav {
+  background-color: rgba(9, 79, 87, 0.4);
+  z-index: 2;
+}
+
+.nav-carousel {
+  margin-top: -70px;
+}
+
+.nav-carousel-caption {
+  padding-bottom: 12rem;
+}
+
+.bannerCarousel {
+  height: 80vh;
+}
+
+.bannerCarousel::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(9, 79, 87, 0.6);
+}
+
+#testimonial-carousel-item {
+  height: 300px;
+  background-color: #ffffff !important;
+}
+
+.text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+footer {
+  margin-bottom: -17px;
+}
+
+@media only screen and (max-width: 768px) {
+  .nav-carousel {
+    margin-top: 0px;
+  }
+  nav {
+    background-color: rgba(5, 61, 66);
+    z-index: 2;
+  }
+  .carouselImage{
+    height: 100% !important;
+  }
+}

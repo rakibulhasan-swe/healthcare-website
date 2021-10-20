@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "key": 210,
+    "serviceName": "Mental health care",
+    "serviceImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/home-1/300x240.jpg",
+    "serviceDesc": "These services often include counseling, therapy, medication management, social work services, peer supports, and substance use disorder treatment.",
+    "doctorName": "Shaun Kim",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-4.jpg",
+    "specialist": "Ear, Nose & Throat Specialist & Head Neck Surgeon",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "key": 211,
+    "serviceName": "Dental care",
+    "serviceImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/home-1/300x240-0.jpg",
+    "serviceDesc": "Basic services include coverage for diagnostic and preventative treatments, such as dental examinations, x-rays, cleanings, topical application of fluoride, oral hygiene, fillings, scaling of teeth, tooth extractions, periodontic services to treat the bone and gum around the tooth and endodontic services including root.",
+    "doctorName": "Dan Peterson",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-3.jpg",
+    "specialist": "Gastroenterology, Medicine & Liver Diseases Specialist",
+    "country": "HONG KONG"
+  },
+  {
+    "id": 3,
+    "key": 212,
+    "serviceName": "Laboratory and diagnostic care",
+    "serviceImage": "https://images.pexels.com/photos/3881237/pexels-photo-3881237.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "serviceDesc": "Lab tests and diagnostic procedures are tests used to check if a persons health is normal. For example, a lab can test a sample of your blood, urine or body tissue to see if something is wrong. A diagnostic test, like blood pressure testing, can show if you have low or high blood pressure.",
+    "doctorName": "Melanie Torres",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-0.jpg",
+    "specialist": "Rheumatology & Medicine Specialist",
+    "country": "GERMANY"
+  },
+  {
+    "id": 4,
+    "key": 213,
+    "serviceName": "Preventative care",
+    "serviceImage": "https://images.unsplash.com/photo-1618498082410-b4aa22193b38?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+    "serviceDesc": "Preventive care helps detect or prevent serious diseases and medical problems before they can become major. Annual check-ups, immunizations, and flu shots, as well as certain tests and screenings, are a few examples of preventive care. This may also be called routine care.",
+    "doctorName": "Rebeka Gilbert",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-1.jpg",
+    "specialist": "Neurology & Medicine Specialist",
+    "country": "USA"
+  },
+  {
+    "id": 5,
+    "key": 214,
+    "serviceName": "Nutritional support",
+    "serviceImage": "https://images.pexels.com/photos/7722927/pexels-photo-7722927.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "serviceDesc": "The provision of enteral or parenteral nutrients to treat or prevent malnutrition. Nutrition Support Therapy is part of Nutrition Therapy which is a component of medical treatment that can include oral, enteral, and parenteral nutrition to maintain or restore optimal nutrition status and health.",
+    "doctorName": "Bobby Stanley",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-2.jpg",
+    "specialist": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
+    "country": "CANADA"
+  },
+  {
+    "id": 6,
+    "key": 215,
+    "serviceName": "Pharmaceutical care",
+    "serviceImage": "https://images.pexels.com/photos/5863359/pexels-photo-5863359.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "serviceDesc": "The principal elements of pharmaceutical care are that it is medication related; it is care that is directly provided to the patient; it is provided to produce definite outcomes; these out- comes are intended to improve the patients quality of life; and the provider accepts personal responsibility for the outcomes.",
+    "doctorName": "Jason Murphy",
+    "doctorImage": "https://metropolitanhost.com/themes/themeforest/react/docfind/assets/img/doctors-grid/348x350-5.jpg",
+    "specialist": "Diabetes, Thyroid & Hormone Specialist",
+    "country": "JAPAN"
+  },
+  {
+    "id": 7,
+    "key": 216,
+    "serviceName": "primary care",
+    "serviceImage": "https://media.istockphoto.com/photos/have-a-look-at-your-bloodwork-results-picture-id1293814791?b=1&k=20&m=1293814791&s=170667a&w=0&h=dmgTyHyOOuYE2NnjGFtyE-Ynx7OPGjOpG1xPwcZgots=",
+    "serviceDesc": "Additionally, primary care includes health promotion, disease prevention, health maintenance, counseling, patient education, diagnosis and treatment of acute and chronic illnesses in a variety of health care settings"
+  },
+  {
+    "id": 8,
+    "key": 217,
+    "serviceName": "Infectious disease clinics",
+    "serviceImage": "https://media.istockphoto.com/photos/team-of-doctors-and-nurses-in-hospital-picture-id1307543618?b=1&k=20&m=1307543618&s=170667a&w=0&h=hXpYmNYXnhdD36C-8taPQvdpM9Oj-woEdge8nvPrsZY=",
+    "serviceDesc": "Infectious diseases are disorders caused by organisms — such as bacteria, viruses, fungi or parasites. Many organisms live in and on our bodies. Theyre normally harmless or even helpful. But under certain conditions, some organisms may cause disease."
+  },
+  {
+    "id": 9,
+    "key": 218,
+    "serviceName": "Drug treatment",
+    "serviceImage": "https://media.istockphoto.com/photos/pediatrician-talks-with-patients-mother-picture-id1293681788?b=1&k=20&m=1293681788&s=170667a&w=0&h=86FIfZB_E9W0-1olORv2I6P5Fvd6EUMZUVPyiMfVrAY=",
+    "serviceDesc": "Drug rehabilitation is the process of medical or psychotherapeutic treatment for dependency on psychoactive substances such as alcohol, prescription drugs, and street drugs such as cannabis, cocaine, heroin or amphetamines."
+  }
+]
